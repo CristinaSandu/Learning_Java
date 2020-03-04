@@ -4,6 +4,7 @@
     <exclude-output />
     <content url="file://$USER_HOME$/project_demo/Learn_Java">
       <sourceFolder url="file://$USER_HOME$/project_demo/Learn_Java/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/project_demo/Learn_Java/out" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
