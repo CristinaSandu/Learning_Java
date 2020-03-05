@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class MenuDesignRunner {
     public static void main(String[] args) {
         Calculator();
-        isWorkingDay(6);
+        //isWorkingDay(6);
 
     }
 
