@@ -2,16 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee0ae1a8-6347-4acf-8137-82bb4e73c805" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/Fan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/FanRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/RectangleRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/Adress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/CustomerRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn_Java/com/exercises/StudentArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn_Java/com/exercises/StudentArrayRunner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn_Java/production/Learn_Java/production/Learn_Java/META-INF/Learn_Java.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn_Java/production/Learn_Java/production/Learn_Java/production/Learn_Java/META-INF/Learn_Java.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learn_Java/production/Learn_Java/production/Learn_Java/production/Learn_Java/production/Learn_Java/META-INF/Learn_Java.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learn_Java/com/exercises/Fan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn_Java/com/exercises/Fan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learn_Java/com/exercises/FanRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn_Java/com/exercises/FanRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learn_Java/com/exercises/RectangleRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learn_Java/com/exercises/RectangleRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/Fan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/Fan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/FanRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/FanRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,15 +43,15 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.exercises" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/.." />
       <recent name="$PROJECT_DIR$/.." />
     </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.exercises" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.RectangleRunner">
+  <component name="RunManager" selected="Application.FanRunner">
     <configuration name="FanRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.exercises.FanRunner" />
       <module name="Learn_Java" />
@@ -120,8 +119,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RectangleRunner" />
         <item itemvalue="Application.FanRunner" />
+        <item itemvalue="Application.RectangleRunner" />
         <item itemvalue="Application.StudentArrayRunner" />
         <item itemvalue="Application.StringDaysOfWeekRunner" />
         <item itemvalue="Application.StudentRunner" />
@@ -146,41 +145,41 @@
       <screen x="0" y="23" width="1920" height="968" />
     </state>
     <state x="560" y="174" key="#Project_Structure/0.23.1920.968/1920.23.1920.1057@0.23.1920.968" timestamp="1583329975806" />
-    <state x="773" y="202" key="#com.intellij.ide.util.MemberChooser" timestamp="1584024858895">
+    <state x="773" y="202" key="#com.intellij.ide.util.MemberChooser" timestamp="1584108105525">
       <screen x="0" y="23" width="1920" height="967" />
     </state>
-    <state x="773" y="202" key="#com.intellij.ide.util.MemberChooser/0.23.1920.967/1920.23.1920.1057@0.23.1920.967" timestamp="1584024858895" />
+    <state x="773" y="202" key="#com.intellij.ide.util.MemberChooser/0.23.1920.967/1920.23.1920.1057@0.23.1920.967" timestamp="1584108105525" />
     <state x="773" y="202" key="#com.intellij.ide.util.MemberChooser/0.23.1920.968/1920.23.1920.1057@0.23.1920.968" timestamp="1583333434371" />
     <state x="698" y="262" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583854105903">
       <screen x="0" y="23" width="1920" height="967" />
     </state>
     <state x="698" y="262" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.967/1920.23.1920.1057@0.23.1920.967" timestamp="1583854105903" />
-    <state width="1878" height="259" key="GridCell.Tab.0.bottom" timestamp="1584025092354">
+    <state width="1878" height="302" key="GridCell.Tab.0.bottom" timestamp="1584106435707">
       <screen x="0" y="23" width="1920" height="967" />
     </state>
     <state width="1878" height="259" key="GridCell.Tab.0.bottom/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1583762971362" />
-    <state width="1878" height="259" key="GridCell.Tab.0.bottom/0.23.1920.967/1920.23.1920.1057@0.23.1920.967" timestamp="1584025092354" />
+    <state width="1878" height="302" key="GridCell.Tab.0.bottom/0.23.1920.967/1920.23.1920.1057@0.23.1920.967" timestamp="1584106435707" />
     <state width="1878" height="321" key="GridCell.Tab.0.bottom/0.23.1920.967/1920.23.1920.1057@1920.23.1920.1057" timestamp="1583508866623" />
     <state width="1878" height="260" key="GridCell.Tab.0.bottom/0.23.1920.968/1920.23.1920.1057@0.23.1920.968" timestamp="1583335754345" />
-    <state width="1878" height="259" key="GridCell.Tab.0.center" timestamp="1584025092353">
+    <state width="1878" height="302" key="GridCell.Tab.0.center" timestamp="1584106435706">
       <screen x="0" y="23" width="1920" height="967" />
     </state>
     <state width="1878" height="259" key="GridCell.Tab.0.center/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1583762971361" />
-    <state width="1878" height="259" key="GridCell.Tab.0.center/0.23.1920.967/1920.23.1920.1057@0.23.1920.967" timestamp="1584025092353" />
+    <state width="1878" height="302" key="GridCell.Tab.0.center/0.23.1920.967/1920.23.1920.1057@0.23.1920.967" timestamp="1584106435706" />
     <state width="1878" height="321" key="GridCell.Tab.0.center/0.23.1920.967/1920.23.1920.1057@1920.23.1920.1057" timestamp="1583508866622" />
     <state width="1878" height="260" key="GridCell.Tab.0.center/0.23.1920.968/1920.23.1920.1057@0.23.1920.968" timestamp="1583335754344" />
-    <state width="1878" height="259" key="GridCell.Tab.0.left" timestamp="1584025092353">
+    <state width="1878" height="302" key="GridCell.Tab.0.left" timestamp="1584106435705">
       <screen x="0" y="23" width="1920" height="967" />
     </state>
     <state width="1878" height="259" key="GridCell.Tab.0.left/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1583762971361" />
-    <state width="1878" height="259" key="GridCell.Tab.0.left/0.23.1920.967/1920.23.1920.1057@0.23.1920.967" timestamp="1584025092352" />
+    <state width="1878" height="302" key="GridCell.Tab.0.left/0.23.1920.967/1920.23.1920.1057@0.23.1920.967" timestamp="1584106435705" />
     <state width="1878" height="321" key="GridCell.Tab.0.left/0.23.1920.967/1920.23.1920.1057@1920.23.1920.1057" timestamp="1583508866621" />
     <state width="1878" height="260" key="GridCell.Tab.0.left/0.23.1920.968/1920.23.1920.1057@0.23.1920.968" timestamp="1583335754344" />
-    <state width="1878" height="259" key="GridCell.Tab.0.right" timestamp="1584025092353">
+    <state width="1878" height="302" key="GridCell.Tab.0.right" timestamp="1584106435706">
       <screen x="0" y="23" width="1920" height="967" />
     </state>
     <state width="1878" height="259" key="GridCell.Tab.0.right/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1583762971362" />
-    <state width="1878" height="259" key="GridCell.Tab.0.right/0.23.1920.967/1920.23.1920.1057@0.23.1920.967" timestamp="1584025092353" />
+    <state width="1878" height="302" key="GridCell.Tab.0.right/0.23.1920.967/1920.23.1920.1057@0.23.1920.967" timestamp="1584106435706" />
     <state width="1878" height="321" key="GridCell.Tab.0.right/0.23.1920.967/1920.23.1920.1057@1920.23.1920.1057" timestamp="1583508866622" />
     <state width="1878" height="260" key="GridCell.Tab.0.right/0.23.1920.968/1920.23.1920.1057@0.23.1920.968" timestamp="1583335754345" />
     <state width="1878" height="321" key="GridCell.Tab.1.bottom" timestamp="1583508866625">
@@ -207,10 +206,10 @@
       <screen x="0" y="23" width="1920" height="967" />
     </state>
     <state x="469" y="145" key="SettingsEditor/0.23.1920.967/1920.23.1920.1057@0.23.1920.967" timestamp="1583401670134" />
-    <state x="616" y="341" key="com.intellij.ide.util.TipDialog" timestamp="1584017939461">
+    <state x="616" y="341" key="com.intellij.ide.util.TipDialog" timestamp="1584105358506">
       <screen x="0" y="23" width="1920" height="967" />
     </state>
-    <state x="616" y="341" key="com.intellij.ide.util.TipDialog/0.23.1920.967/1920.23.1920.1057@0.23.1920.967" timestamp="1584017939461" />
+    <state x="616" y="341" key="com.intellij.ide.util.TipDialog/0.23.1920.967/1920.23.1920.1057@0.23.1920.967" timestamp="1584105358506" />
     <state x="520" y="251" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583403209151">
       <screen x="0" y="23" width="1920" height="967" />
     </state>
