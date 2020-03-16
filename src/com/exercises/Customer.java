@@ -30,6 +30,6 @@ public class Customer {
         this.workAdress = workAdress;
     }
     public String toString(){
-        return String.format("name - []   Home adress - [] work adress - []" , name,homeAdress,workAdress);
+        return String.format("name - [%s]   Home adress - [%s] work adress - [%s]" , name,homeAdress,workAdress);
     }
 }
