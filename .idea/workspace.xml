@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee0ae1a8-6347-4acf-8137-82bb4e73c805" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/BookRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/ReviewBook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/exercises/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/exercises/CustomerRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/CustomerRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +12,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -48,7 +44,7 @@
       <recent name="$PROJECT_DIR$/.." />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BookRunner">
+  <component name="RunManager" selected="Application.GameRummer">
     <configuration name="BookRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.exercises.BookRunner" />
       <module name="Learn_Java" />
@@ -62,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomerRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exercises.CustomerRunner" />
+    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exercises.Employee" />
       <module name="Learn_Java" />
       <extension name="coverage">
         <pattern>
@@ -75,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FanRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exercises.FanRunner" />
+    <configuration name="GameRummer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exercises.GameRummer" />
       <module name="Learn_Java" />
       <extension name="coverage">
         <pattern>
@@ -88,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RectangleRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exercises.RectangleRunner" />
+    <configuration name="InheritanceRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exercises.InheritanceRunner" />
       <module name="Learn_Java" />
       <extension name="coverage">
         <pattern>
@@ -101,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentArrayRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exercises.StudentArrayRunner" />
+    <configuration name="RecipeRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exercises.RecipeRunner" />
       <module name="Learn_Java" />
       <extension name="coverage">
         <pattern>
@@ -116,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GameRummer" />
+        <item itemvalue="Application.RecipeRunner" />
+        <item itemvalue="Application.InheritanceRunner" />
+        <item itemvalue="Application.Employee" />
         <item itemvalue="Application.BookRunner" />
-        <item itemvalue="Application.CustomerRunner" />
-        <item itemvalue="Application.FanRunner" />
-        <item itemvalue="Application.RectangleRunner" />
-        <item itemvalue="Application.StudentArrayRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -142,43 +138,43 @@
       <screen x="0" y="23" width="1920" height="968" />
     </state>
     <state x="560" y="174" key="#Project_Structure/0.23.1920.968/1920.23.1920.1057@0.23.1920.968" timestamp="1583329975806" />
-    <state x="2693" y="219" key="#com.intellij.ide.util.MemberChooser" timestamp="1584371496830">
+    <state x="2693" y="219" key="#com.intellij.ide.util.MemberChooser" timestamp="1584457565408">
       <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state x="773" y="202" key="#com.intellij.ide.util.MemberChooser/0.23.1920.967/1920.23.1920.1057@0.23.1920.967" timestamp="1584108105525" />
-    <state x="2693" y="219" key="#com.intellij.ide.util.MemberChooser/0.23.1920.967/1920.23.1920.1057@1920.23.1920.1057" timestamp="1584371496830" />
+    <state x="2693" y="219" key="#com.intellij.ide.util.MemberChooser/0.23.1920.967/1920.23.1920.1057@1920.23.1920.1057" timestamp="1584457565408" />
     <state x="773" y="202" key="#com.intellij.ide.util.MemberChooser/0.23.1920.968/1920.23.1920.1057@0.23.1920.968" timestamp="1583333434371" />
     <state x="698" y="262" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583854105903">
       <screen x="0" y="23" width="1920" height="967" />
     </state>
     <state x="698" y="262" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.967/1920.23.1920.1057@0.23.1920.967" timestamp="1583854105903" />
-    <state width="1878" height="302" key="GridCell.Tab.0.bottom" timestamp="1584372516602">
+    <state width="1878" height="302" key="GridCell.Tab.0.bottom" timestamp="1584457698672">
       <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="259" key="GridCell.Tab.0.bottom/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1583762971362" />
     <state width="1878" height="302" key="GridCell.Tab.0.bottom/0.23.1920.967/1920.23.1920.1057@0.23.1920.967" timestamp="1584114418356" />
-    <state width="1878" height="302" key="GridCell.Tab.0.bottom/0.23.1920.967/1920.23.1920.1057@1920.23.1920.1057" timestamp="1584372516602" />
+    <state width="1878" height="302" key="GridCell.Tab.0.bottom/0.23.1920.967/1920.23.1920.1057@1920.23.1920.1057" timestamp="1584457698672" />
     <state width="1878" height="260" key="GridCell.Tab.0.bottom/0.23.1920.968/1920.23.1920.1057@0.23.1920.968" timestamp="1583335754345" />
-    <state width="1878" height="302" key="GridCell.Tab.0.center" timestamp="1584372516601">
+    <state width="1878" height="302" key="GridCell.Tab.0.center" timestamp="1584457698671">
       <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="259" key="GridCell.Tab.0.center/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1583762971361" />
     <state width="1878" height="302" key="GridCell.Tab.0.center/0.23.1920.967/1920.23.1920.1057@0.23.1920.967" timestamp="1584114418355" />
-    <state width="1878" height="302" key="GridCell.Tab.0.center/0.23.1920.967/1920.23.1920.1057@1920.23.1920.1057" timestamp="1584372516601" />
+    <state width="1878" height="302" key="GridCell.Tab.0.center/0.23.1920.967/1920.23.1920.1057@1920.23.1920.1057" timestamp="1584457698671" />
     <state width="1878" height="260" key="GridCell.Tab.0.center/0.23.1920.968/1920.23.1920.1057@0.23.1920.968" timestamp="1583335754344" />
-    <state width="1878" height="302" key="GridCell.Tab.0.left" timestamp="1584372516601">
+    <state width="1878" height="302" key="GridCell.Tab.0.left" timestamp="1584457698671">
       <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="259" key="GridCell.Tab.0.left/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1583762971361" />
     <state width="1878" height="302" key="GridCell.Tab.0.left/0.23.1920.967/1920.23.1920.1057@0.23.1920.967" timestamp="1584114418355" />
-    <state width="1878" height="302" key="GridCell.Tab.0.left/0.23.1920.967/1920.23.1920.1057@1920.23.1920.1057" timestamp="1584372516601" />
+    <state width="1878" height="302" key="GridCell.Tab.0.left/0.23.1920.967/1920.23.1920.1057@1920.23.1920.1057" timestamp="1584457698671" />
     <state width="1878" height="260" key="GridCell.Tab.0.left/0.23.1920.968/1920.23.1920.1057@0.23.1920.968" timestamp="1583335754344" />
-    <state width="1878" height="302" key="GridCell.Tab.0.right" timestamp="1584372516602">
+    <state width="1878" height="302" key="GridCell.Tab.0.right" timestamp="1584457698672">
       <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="259" key="GridCell.Tab.0.right/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1583762971362" />
     <state width="1878" height="302" key="GridCell.Tab.0.right/0.23.1920.967/1920.23.1920.1057@0.23.1920.967" timestamp="1584114418356" />
-    <state width="1878" height="302" key="GridCell.Tab.0.right/0.23.1920.967/1920.23.1920.1057@1920.23.1920.1057" timestamp="1584372516602" />
+    <state width="1878" height="302" key="GridCell.Tab.0.right/0.23.1920.967/1920.23.1920.1057@1920.23.1920.1057" timestamp="1584457698672" />
     <state width="1878" height="260" key="GridCell.Tab.0.right/0.23.1920.968/1920.23.1920.1057@0.23.1920.968" timestamp="1583335754345" />
     <state width="1878" height="321" key="GridCell.Tab.1.bottom" timestamp="1583508866625">
       <screen x="1920" y="23" width="1920" height="1057" />
@@ -204,11 +200,11 @@
       <screen x="0" y="23" width="1920" height="967" />
     </state>
     <state x="469" y="145" key="SettingsEditor/0.23.1920.967/1920.23.1920.1057@0.23.1920.967" timestamp="1583401670134" />
-    <state x="2536" y="371" key="com.intellij.ide.util.TipDialog" timestamp="1584369369288">
+    <state x="2536" y="371" key="com.intellij.ide.util.TipDialog" timestamp="1584435290106">
       <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state x="616" y="341" key="com.intellij.ide.util.TipDialog/0.23.1920.967/1920.23.1920.1057@0.23.1920.967" timestamp="1584105358506" />
-    <state x="2536" y="371" key="com.intellij.ide.util.TipDialog/0.23.1920.967/1920.23.1920.1057@1920.23.1920.1057" timestamp="1584369369288" />
+    <state x="2536" y="371" key="com.intellij.ide.util.TipDialog/0.23.1920.967/1920.23.1920.1057@1920.23.1920.1057" timestamp="1584435290106" />
     <state x="520" y="251" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583403209151">
       <screen x="0" y="23" width="1920" height="967" />
     </state>
