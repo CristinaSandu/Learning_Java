@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee0ae1a8-6347-4acf-8137-82bb4e73c805" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/Aeroplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/Birds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/FlyableRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/FunctionalProgrammingRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/GenericsRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/MapRUnner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/MyCustomList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/SetRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/StudentCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/StudentCollectionRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/data.text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/file-write.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/DirectoryScanRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/FileWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exercises/FilereadRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,12 +26,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Yez5yz6LRZoG2UIetmuojs1fYJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="extract.method.default.visibility" value="private" />
@@ -56,7 +54,46 @@
       <recent name="com.exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FunctionalProgrammingRunner">
+  <component name="RunManager" selected="Application.FileWriter">
+    <configuration name="DirectoryScanRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exercises.DirectoryScanRunner" />
+      <module name="Learn_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exercises.FileWriter" />
+      <module name="Learn_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FilereadRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exercises.FilereadRunner" />
+      <module name="Learn_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FunctionalProgrammingRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.exercises.FunctionalProgrammingRunner" />
       <module name="Learn_Java" />
@@ -83,52 +120,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapRUnner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exercises.MapRUnner" />
-      <module name="Learn_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SetRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exercises.SetRunner" />
-      <module name="Learn_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentCollectionRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exercises.StudentCollectionRunner" />
-      <module name="Learn_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FileWriter" />
+        <item itemvalue="Application.FilereadRunner" />
+        <item itemvalue="Application.DirectoryScanRunner" />
         <item itemvalue="Application.FunctionalProgrammingRunner" />
         <item itemvalue="Application.GenericsRunner" />
-        <item itemvalue="Application.MapRUnner" />
-        <item itemvalue="Application.SetRunner" />
-        <item itemvalue="Application.StudentCollectionRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -145,11 +143,18 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="560" y="174" key="#Project_Structure" timestamp="1583329975806">
       <screen x="0" y="23" width="1920" height="968" />
     </state>
     <state x="560" y="174" key="#Project_Structure/0.23.1920.968/1920.23.1920.1057@0.23.1920.968" timestamp="1583329975806" />
+    <state x="688" y="316" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584713274249">
+      <screen x="0" y="23" width="1920" height="967" />
+    </state>
+    <state x="688" y="316" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.967/1920.23.1920.1057@0.23.1920.967" timestamp="1584713274249" />
     <state x="773" y="202" key="#com.intellij.ide.util.MemberChooser" timestamp="1584529380929">
       <screen x="0" y="23" width="1920" height="967" />
     </state>
@@ -160,32 +165,32 @@
       <screen x="0" y="23" width="1920" height="967" />
     </state>
     <state x="698" y="262" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.967/1920.23.1920.1057@0.23.1920.967" timestamp="1583854105903" />
-    <state width="1878" height="302" key="GridCell.Tab.0.bottom" timestamp="1584631618860">
+    <state width="1878" height="302" key="GridCell.Tab.0.bottom" timestamp="1584713997263">
       <screen x="0" y="23" width="1920" height="967" />
     </state>
     <state width="1878" height="259" key="GridCell.Tab.0.bottom/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1583762971362" />
-    <state width="1878" height="302" key="GridCell.Tab.0.bottom/0.23.1920.967/1920.23.1920.1057@0.23.1920.967" timestamp="1584631618860" />
+    <state width="1878" height="302" key="GridCell.Tab.0.bottom/0.23.1920.967/1920.23.1920.1057@0.23.1920.967" timestamp="1584713997263" />
     <state width="1878" height="302" key="GridCell.Tab.0.bottom/0.23.1920.967/1920.23.1920.1057@1920.23.1920.1057" timestamp="1584459224848" />
     <state width="1878" height="260" key="GridCell.Tab.0.bottom/0.23.1920.968/1920.23.1920.1057@0.23.1920.968" timestamp="1583335754345" />
-    <state width="1878" height="302" key="GridCell.Tab.0.center" timestamp="1584631618858">
+    <state width="1878" height="302" key="GridCell.Tab.0.center" timestamp="1584713997262">
       <screen x="0" y="23" width="1920" height="967" />
     </state>
     <state width="1878" height="259" key="GridCell.Tab.0.center/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1583762971361" />
-    <state width="1878" height="302" key="GridCell.Tab.0.center/0.23.1920.967/1920.23.1920.1057@0.23.1920.967" timestamp="1584631618858" />
+    <state width="1878" height="302" key="GridCell.Tab.0.center/0.23.1920.967/1920.23.1920.1057@0.23.1920.967" timestamp="1584713997262" />
     <state width="1878" height="302" key="GridCell.Tab.0.center/0.23.1920.967/1920.23.1920.1057@1920.23.1920.1057" timestamp="1584459224847" />
     <state width="1878" height="260" key="GridCell.Tab.0.center/0.23.1920.968/1920.23.1920.1057@0.23.1920.968" timestamp="1583335754344" />
-    <state width="1878" height="302" key="GridCell.Tab.0.left" timestamp="1584631618858">
+    <state width="1878" height="302" key="GridCell.Tab.0.left" timestamp="1584713997262">
       <screen x="0" y="23" width="1920" height="967" />
     </state>
     <state width="1878" height="259" key="GridCell.Tab.0.left/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1583762971361" />
-    <state width="1878" height="302" key="GridCell.Tab.0.left/0.23.1920.967/1920.23.1920.1057@0.23.1920.967" timestamp="1584631618858" />
+    <state width="1878" height="302" key="GridCell.Tab.0.left/0.23.1920.967/1920.23.1920.1057@0.23.1920.967" timestamp="1584713997262" />
     <state width="1878" height="302" key="GridCell.Tab.0.left/0.23.1920.967/1920.23.1920.1057@1920.23.1920.1057" timestamp="1584459224847" />
     <state width="1878" height="260" key="GridCell.Tab.0.left/0.23.1920.968/1920.23.1920.1057@0.23.1920.968" timestamp="1583335754344" />
-    <state width="1878" height="302" key="GridCell.Tab.0.right" timestamp="1584631618859">
+    <state width="1878" height="302" key="GridCell.Tab.0.right" timestamp="1584713997263">
       <screen x="0" y="23" width="1920" height="967" />
     </state>
     <state width="1878" height="259" key="GridCell.Tab.0.right/0.23.1920.1057/1920.23.1920.1057@0.23.1920.1057" timestamp="1583762971362" />
-    <state width="1878" height="302" key="GridCell.Tab.0.right/0.23.1920.967/1920.23.1920.1057@0.23.1920.967" timestamp="1584631618859" />
+    <state width="1878" height="302" key="GridCell.Tab.0.right/0.23.1920.967/1920.23.1920.1057@0.23.1920.967" timestamp="1584713997263" />
     <state width="1878" height="302" key="GridCell.Tab.0.right/0.23.1920.967/1920.23.1920.1057@1920.23.1920.1057" timestamp="1584459224848" />
     <state width="1878" height="260" key="GridCell.Tab.0.right/0.23.1920.968/1920.23.1920.1057@0.23.1920.968" timestamp="1583335754345" />
     <state width="1878" height="321" key="GridCell.Tab.1.bottom" timestamp="1583508866625">
@@ -212,11 +217,11 @@
       <screen x="0" y="23" width="1920" height="967" />
     </state>
     <state x="469" y="145" key="SettingsEditor/0.23.1920.967/1920.23.1920.1057@0.23.1920.967" timestamp="1583401670134" />
-    <state x="616" y="341" key="com.intellij.ide.util.TipDialog" timestamp="1584613803650">
+    <state x="616" y="341" key="com.intellij.ide.util.TipDialog" timestamp="1584711629791">
       <screen x="0" y="23" width="1920" height="967" />
     </state>
     <state x="616" y="371" key="com.intellij.ide.util.TipDialog/0.23.1920.1057/1920.23.1920.967@0.23.1920.1057" timestamp="1584607601631" />
-    <state x="616" y="341" key="com.intellij.ide.util.TipDialog/0.23.1920.967/1920.23.1920.1057@0.23.1920.967" timestamp="1584613803650" />
+    <state x="616" y="341" key="com.intellij.ide.util.TipDialog/0.23.1920.967/1920.23.1920.1057@0.23.1920.967" timestamp="1584711629791" />
     <state x="2536" y="371" key="com.intellij.ide.util.TipDialog/0.23.1920.967/1920.23.1920.1057@1920.23.1920.1057" timestamp="1584435290106" />
     <state x="520" y="251" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583403209151">
       <screen x="0" y="23" width="1920" height="967" />
